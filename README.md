@@ -10,11 +10,13 @@ This project demonstrates a complete mechanical system with several key features
 
 The core of this project is the mechanical system. It demonstrates how to engineer a custom gearbox using standard LEGO Technic parts to solve a specific mechanical challenge: creating a smooth, counter-rotating motion from a single motor. This provides a clear and satisfying demonstration of gearbox principles.
 
-### Dependencies
+### Repository Contents
 
 This repository contains only the design files for the rotating blades. To use these files, you will need:
 
 *   Vector graphics software capable of opening `.svg` or `.eps` files (e.g., Adobe Illustrator, Inkscape).
+
+_LEGO instructions coming soon_
 
 ### Compatibility
 
