@@ -25,4 +25,4 @@ The included `.svg` and `.eps` files are standard vector formats and should be c
 ### Project Links & Demos
 
 *   **Full Project Write-up:** [https://stevenmbenton.com/kinetic-rotating-sculpture/](https://stevenmbenton.com/kinetic-rotating-sculpture/)
-*   **YouTube Demo:** [https://youtube.com/shorts/mMwfQebC_T4](https://youtube.com/shorts/mMwfQEb-i-c)
+*   **YouTube Demo:** [https://youtube.com/shorts/mMwfQebC_T4]([https://youtube.com/shorts/mMwfQEb-i-c](https://youtube.com/shorts/mMwfQebC_T4))
