@@ -10,6 +10,7 @@ This project demonstrates a complete mechanical system with several key features
 
 The core of this project is the mechanical system. It demonstrates how to engineer a custom gearbox using standard LEGO Technic parts to solve a specific mechanical challenge: creating a smooth, counter-rotating motion from a single motor. This provides a clear and satisfying demonstration of gearbox principles.
 
+> **YouTube Demo:** [https://youtube.com/shorts/mMwfQEb-i-c](https://youtube.com/shorts/mMwfQebC_T4)
 ---
 
 ### Repository Contents
